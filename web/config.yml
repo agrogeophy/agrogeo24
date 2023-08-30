@@ -1,0 +1,24 @@
+# Use YAML for configuration since it allows comments like this
+site_name: 3rd Agrogeophysics seminar
+description: 3rdAgrogeophysics seminar website
+author: Agrogeophysics Organizing Committee
+language: en
+repository: agrogeophy/agrogeo24
+favicon: images/Garre_drawing1.png
+logo: images/Garre_drawing2.png
+menu:
+  - [Home, index]  
+  - [Committee, committees]
+#  - [About, about]
+#  - [Agenda, program]
+#  - [<font color="blue">Workshop</font>, workshop ]
+  - [<font color="green">Submit an abstract</font>, abstracts]  
+#  - [<font color="red">COVID-19 information</font>, COVID19]  
+#  - [Gallery, gallery]
+ignore:
+  - README.md
+  - config-alternative.json
+  - Makefile
+keywords: 'agrogeophysics, hydrogeophysics, ERT, EMI, GPR, seismic, NMR, applied geophysics, remote sensing, open-source'
+language: en
+
