@@ -103,7 +103,7 @@ _"Monitoring and modelling root-zone processes with geoelectrical methods"_
 
 
 <figure>
-	<a title="ZachT, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:ETHZ.JPG"><img width="1024" alt="ETHZ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ETHZ.JPG/1024px-ETHZ.JPG"></a>
+	<img alt="ETHZ" src="images/venue.jpeg">
     <figcaption>ETHZ Zentrum Campus</figcaption>
 </figure>
 
