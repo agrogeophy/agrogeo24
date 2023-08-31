@@ -30,7 +30,7 @@ Agrogeophysics is an emerging research field. What are the applications, potenti
 </div>
 
 
-## Zurich, Switzerland*
+## Zürich, Switzerland*
 *the event will also be streamed online (written question only)
 
 Want to join? [Register now (TODO)]() and [Submit an abstract](abstracts.html)
@@ -83,7 +83,7 @@ _"Monitoring and modelling root-zone processes with geoelectrical methods"_
 
 * **Registration** 
 	- deadline: November 2023 (TO BE CONFIRMED) <!-- to be decided -->
-	- fees: **free** for master students, **40** CHF for PhDs, **60** CHF for all other cases
+	- fees: **free** for master students, **30** CHF invited speakers, **40** CHF for PhDs, **60** CHF for all other cases. _The fee is used to cover the cost of the venue._
 
 * **Arrival + conference dinner:** Wednesday January 31st, 2024 - Social dinner in the evening (18:00)
 
@@ -97,14 +97,14 @@ _"Monitoring and modelling root-zone processes with geoelectrical methods"_
 
 <hr>
 
-## Venue: [Alumni Pavillon (MM C 78.1), ETHZ, Zurich, Switzerland](https://goo.gl/maps/8DreDZLnnENyHYQk7)
+## Location: ETHZ Zentrum Campus Zürich, Switzerland
 
 
 
 
 <figure>
-	<a title="Credits: ETH Zurich" href="https://ethz.ch/staffnet/de/service/raeume-gebaeude/rektoratsraeume/sonstige/pavillon.html"><img width="2048" style="width:100%" alt="Venue" src="images/venue.png"></a>
-    <figcaption>Alumni Pavillon (MM C 78.1)</figcaption>
+	<a title="ZachT, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:ETHZ.JPG"><img width="1024" alt="ETHZ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ETHZ.JPG/1024px-ETHZ.JPG"></a>
+    <figcaption>ETHZ Zentrum Campus</figcaption>
 </figure>
 
 
@@ -113,7 +113,7 @@ _"Monitoring and modelling root-zone processes with geoelectrical methods"_
 
 ### How to get there
 
-The Pavillon is located at 12 min walk from Zurich HB (main train station).
+The conference will take place in the **Alumni Pavillon (MM C 78.1)** which is located at 12 minutes walk from Zürich main train station (Zürich HB).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5403.567780187057!2d8.538009094552871!3d47.37713624994071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa15627cfce2f%3A0xd19bb48420ab467b!2sETH%20Alumni%20Pavillon!5e0!3m2!1snl!2sbe!4v1693406248738!5m2!1snl!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
