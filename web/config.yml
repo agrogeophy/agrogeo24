@@ -1,11 +1,11 @@
 # Use YAML for configuration since it allows comments like this
-site_name: 3rd Agrogeophysics seminar
-description: 3rdAgrogeophysics seminar website
+site_name: Agrogeo24
+description: Agrogeo24
 author: Agrogeophysics Organizing Committee
 language: en
 repository: agrogeophy/agrogeo24
-favicon: images/Garre_drawing1.png
-logo: images/Garre_drawing2.png
+favicon: images/logo-agrogeo.jpg
+logo: images/logo-agrogeo.jpg
 menu:
   - [Home, index]  
   - [Committee, committees]

@@ -1,5 +1,5 @@
 ---
-custom_page_title: "3rd agrogeophysics seminar"
+custom_page_title: "agrogeo24"
 exclude_h1: true
 template: base.html
 ---
@@ -13,12 +13,14 @@ template: base.html
 # {{ page.custom_page_title }}
 -->
 
-# Agriculture and geophysics: Getting precise about precision agriculture!
+# Agriculture and geophysics: <br/>Illuminating the subsurface!
+
+<!--Getting precise about precision agriculture!-->
 
 
 
 <p class="lead">
-Agrogeophysics is an emerging research field. What are the applications, potential and future research needs? Come and discover with us!	
+Agrogeophysics is an emerging research field. What are the current, potential and, future applications research needs? Come and discover with us!	
 </p>
 
 <!-- Book of abstracts: [download here](./media/AgroGeophysics_Seminar_Abstarct-Booklet.pdf) -->
@@ -30,10 +32,14 @@ Agrogeophysics is an emerging research field. What are the applications, potenti
 </div>
 
 
-## Zürich, Switzerland*
-*the event will also be streamed online (written question only)
+## ETH Zürich, Switzerland*
+*The event will also be streamed online (written questions only)
 
-Want to join? [Register now (TODO)]() and [Submit an abstract](abstracts.html)
+Want to join? [Register now (COMING SOON)]() and [submit an abstract](abstracts.html)!
+
+**Deadlines**:
+- 15th December 2023 (abstract submission)
+- 12th January 2024 (registration)
 <!-- TODO evenbrite link -->
 
 
@@ -47,7 +53,7 @@ Want to join? [Register now (TODO)]() and [Submit an abstract](abstracts.html)
 
 _After the success of the first edition ‘Geophysics & Agriculture: the perfect match?’ in 2020 and the second edition 'Agriculture and geophysics: an electrical meeting!' in 2022, we are pleased to give you all a new opportunity to exchange knowledge, good practices, and passion on current trending topics in agrogeophysics!_
 
-Agrogeophysics harnesses geophysical methods such as ground-penetrating radar, electrical imaging, seismic,... from hand-held over drone to satellite-borne, to characterize patterns or processes in the soil-plant continuum of interest for agronomic management. These methods help develop sustainable agricultural practices by providing minimally-invasive, spatially consistent, multi-scale, and temporally-resolved information of processes in agro- ecosystems that is inaccessible by traditional monitoring techniques. The aim of this session is to feature applications of geophysical methods in agricultural research and/or show methodologies to overcome their inherent limitations and challenges. We welcome contributions monitoring soil or plant properties and states revealing information relevant for agricultural management; studies developing and using proximal or remote sensing techniques for mapping or monitoring soil-water-plant interactions; work focused on bridging the scale gap between these multiple techniques; or work investigating pedophysical relationships to better understand laboratory-scale links between sensed properties and soil properties and states of interest. Submissions profiting on data fusion, utilizing innovative modeling tools for interpretation, and demonstrating novel acquisition or processing techniques are encouraged.
+Agrogeophysics harnesses geophysical methods such as ground-penetrating radar, electrical imaging, seismic,... from hand-held over drone to satellite-borne, to characterize patterns or processes in the soil-plant continuum of interest for agronomic management. These methods help develop sustainable agricultural practices by providing minimally-invasive, spatially consistent, multi-scale, and temporally-resolved information of processes in agro- ecosystems that is inaccessible by traditional monitoring techniques. The aim of this session is to feature applications of geophysical methods in agricultural research and/or show methodologies to overcome their inherent limitations and challenges. We welcome contributions monitoring soil or plant properties and states revealing information relevant for agricultural management; studies developing and using proximal or remote sensing techniques for mapping or monitoring soil-water-plant interactions; work focused on bridging the scale gap between these multiple techniques; or work investigating pedophysical relationships to better understand laboratory-scale links between sensed properties and soil properties and states of interest. Submissions dedicated to data fusion, utilizing innovative modeling tools for interpretation, and demonstrating novel acquisition or processing techniques are encouraged.
 
 <!-- add about interactive session here? -->
 
@@ -58,20 +64,38 @@ Agrogeophysics harnesses geophysical methods such as ground-penetrating radar, e
 
 <center>  
 
+
+<img src="images/speakers/anja.png" style="width: 20%; border-radius: 50%">
+
 #### **Anja Klotzsche** | FZ Jülich, Germany
 _"Critical analysis of GPR in the context of Agro-Geophysics"_
+
+<img src="images/speakers/kaijum.png" style="width: 20%; border-radius: 50%">
 
 #### **Kaijum Wu** | UCLouvain, Belgium
 _"Drone-borne Ground Penetrating Radar for digital soil mapping"_
 
+<img src="images/speakers/niklas.png" style="width: 20%; border-radius: 50%">
+
 #### **Niklas Linde** | UNIL, Switzerland
 _"Advances in Bayesian inversion methodologies with high potential value in agrogeophysics"_
+
+<img src="images/speakers/adrian.png" style="width: 20%; border-radius: 50%">
 
 #### **Adrian Flores-Orozco** | TUWIEN, Austria
 _"Delineation of organic carbon pools in subsoils through electrical methods"_
 
+<img src="images/speakers/benjamin.png" style="width: 20%; border-radius: 50%">
+
 #### **Benjamin Mary** | UPM, Spain
 _"Monitoring and modelling root-zone processes with geoelectrical methods"_
+
+<img src="images/speakers/myriam.jpg" style="width: 20%; border-radius: 50%">
+
+#### **Myriam Schmutz** | Bordeaux INP, France
+_"Overview of geoelectrical advances for vineyard study"_
+
+ 
 
 </center>
 
@@ -83,7 +107,9 @@ _"Monitoring and modelling root-zone processes with geoelectrical methods"_
 
 * **Registration** 
 	- deadline: November 2023 (TO BE CONFIRMED) <!-- to be decided -->
-	- fees: **free** for master students, **30** CHF invited speakers, **40** CHF for PhDs, **60** CHF for all other cases. _The fee is used to cover the cost of the venue._
+	- fees: **free** for master students, **40** CHF for PhDs, **60** CHF for all other cases. _The fee is used to cover the cost of the venue._
+
+<!-- **30** CHF invited speakers, -->
 
 * **Arrival + conference dinner:** Wednesday January 31st, 2024 - Social dinner in the evening (18:00)
 
@@ -92,7 +118,7 @@ _"Monitoring and modelling root-zone processes with geoelectrical methods"_
   - Friday February 2nd, 2024 - Workshop (8:30 - 18:00)
 
 * **After conference:**
-  - Saturday February 3rd, 2024 - Ski trip (for those who wants)
+  - Saturday February 3rd, 2024 - Ski trip (for those who want, not included in the fee)
 
 
 <hr>
@@ -126,6 +152,11 @@ The conference will take place in the **Alumni Pavillon (MM C 78.1)** which is l
 
 </div>
 
+### Accommodations
+Here are three suggested hotels close to the venue:
+- [Hotel Limmathof - Hotel Limmathof](https://limmathof.com/en/) (10 minutes walk to the venue)
+- [Hotel Felix | Zurich – centrally located in the heart of Zurich’s old town](https://www.hotelfelix.ch/) (8 minutes walk to the venue)
+- [ibis Styles Zurich City Center | ALL - ALL (accor.com)](https://all.accor.com/hotel/B5J7/index.de.shtml) (12 minutes walk to the venue)
 
 <hr>
 
@@ -205,6 +236,65 @@ expertise in monitoring, data analysis, inverse problems, and research software
 engineering.
 
 **Reach out** to [our team](committees) to start a conversation!
+
+
+## Sponsors
+
+This event is supported by:
+
+
+<style>
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+</style>
+
+
+<div class="row">
+    <div class="column">
+        <a href="https://ethz.ch"><img style="width: 100%" src="images/sponsors/ethz.png"/></a>
+    </div>
+    <div class="column" >
+        <a href="https://www.agroscope.admin.ch"><img style="width: 100%" src="images/sponsors/agroscope.jpg"/></a>
+    </div>
+</div>
+
 
 
 
