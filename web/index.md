@@ -82,7 +82,7 @@ _"Advances in Bayesian inversion methodologies with high potential value in agro
 
 <img src="images/speakers/adrian.png" style="width: 20%; border-radius: 50%">
 
-#### **Adrian Flores-Orozco** | TUWIEN, Austria
+#### **Adrian Flores-Orozco** | TU Wien, Austria
 _"Delineation of organic carbon pools in subsoils through electrical methods"_
 
 <img src="images/speakers/benjamin.png" style="width: 20%; border-radius: 50%">
