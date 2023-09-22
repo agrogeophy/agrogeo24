@@ -1,4 +1,5 @@
-# 3rd agrogeophysics seminar 🚀
+# Agrogeo24
+## Agriculture and geophysics: Illuminating the subsurface!
 
 **https://agrogeophy.github.io/agrogeo24**
 
