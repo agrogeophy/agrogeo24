@@ -9,7 +9,7 @@ template: base.html
 
 <hr class="mb-5">
 
-## Collaborators
+## Hosts
 
 {{ macros.make_people_list(page.collaborators) }}
 

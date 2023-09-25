@@ -70,9 +70,9 @@ Agrogeophysics harnesses geophysical methods such as ground-penetrating radar, e
 #### **Anja Klotzsche** | FZ Jülich, Germany
 _"Critical analysis of GPR in the context of Agro-Geophysics"_
 
-<img src="images/speakers/kaijum.png" style="width: 20%; border-radius: 50%">
+<img src="images/speakers/kaijun.png" style="width: 20%; border-radius: 50%">
 
-#### **Kaijum Wu** | UCLouvain, Belgium
+#### **Kaijun Wu** | UCLouvain, Belgium
 _"Drone-borne Ground Penetrating Radar for digital soil mapping"_
 
 <img src="images/speakers/niklas.png" style="width: 20%; border-radius: 50%">

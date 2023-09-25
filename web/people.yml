@@ -8,7 +8,7 @@
 current:
   - name: Alejandro Romero-Ruiz
     role: Organiser
-    affiliation: ETH Zürich (Switzerland)
+    affiliation: Agroscope/ETH Zürich (Switzerland)
     email: alejandro.romero@agroscope.admin.ch
     orcid: 0000-0002-6654-2908
     google_scholar: https://scholar.google.com/citations?user=qt_M9EcAAAAJ&hl=en
@@ -43,13 +43,19 @@ current:
   - name: Guillaume Blanchy
     role: Organiser
     affiliation: University of Liège (Belgium)
-    github: sagitta1618
     email: gblanchy@uliege.be
     orcid: 0000-0001-6341-5826
     google_scholar: https://scholar.google.com/citations?user=2HPyKh4AAAAJ&hl=nl
     researchgate: https://www.researchgate.net/profile/Guillaume_Blanchy
 
-collaborator:
+collaborators:
+  - name: Thomas Keller
+    role: Host
+    affiliation: Agroscope (Switzerland)
+    
+  - name: Andrea Carminati
+    role: Host
+    affiliation: ETH Zürich (Switzerland)
 
 
 
