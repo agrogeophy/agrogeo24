@@ -107,7 +107,7 @@ _"Overview of geoelectrical advances for vineyard study"_
 
 * **Registration** 
 	- deadline: 12th January 2024 <!-- to be decided -->
-	- fees: **free** for master students, **40** CHF for PhDs, **60** CHF for all other cases. _The fee is used to cover the cost of the venue._
+	- fees: **free** for master students, **40** CHF for PhDs, **60** CHF for all other cases.
 
 <!-- **30** CHF invited speakers, -->
 
