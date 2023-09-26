@@ -4,8 +4,8 @@ description: Agrogeo24
 author: Agrogeophysics Organizing Committee
 language: en
 repository: agrogeophy/agrogeo24
-favicon: images/logo-agrogeo.jpg
-logo: images/logo-agrogeo.jpg
+favicon: images/logo2.jpg
+logo: images/logo1.jpg
 menu:
   - [Home, index]  
   - [Committee, committees]
