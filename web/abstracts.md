@@ -11,7 +11,7 @@ template: base.html
 **Attention**
 <i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
 
-With the submission of your abstract, you engage yourself to present it during the agrogeophysics seminar. Please use the [registration link (COMING SOON)]() to register for the seminar **in addition** to this abstract submission 
+With the submission of your abstract, you engage yourself to present it during the agrogeophysics seminar. Please use the [registration link](https://www.eventbrite.com/e/3rd-agrogeophysics-seminar-illuminating-the-subsurface-tickets-719678225947?aff=oddtdtcreator) to register for the seminar **in addition** to this abstract submission 
 
 </div>
 
