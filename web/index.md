@@ -35,14 +35,11 @@ Agrogeophysics is an emerging research field. What are the current, potential an
 ## ETH Zürich, Switzerland*
 *The event will also be streamed online (written questions only)
 
-Want to join? [Register now (COMING SOON)]() and [submit an abstract](abstracts.html)!
+Want to join? [Register now](https://www.eventbrite.com/e/3rd-agrogeophysics-seminar-illuminating-the-subsurface-tickets-719678225947?aff=oddtdtcreator) and [submit an abstract](abstracts.html)!
 
 **Deadlines**:
 - 15th December 2023 (abstract submission)
 - 12th January 2024 (registration)
-<!-- TODO evenbrite link -->
-
-
 
 <hr>
 
