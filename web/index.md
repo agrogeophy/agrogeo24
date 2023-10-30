@@ -151,7 +151,7 @@ The conference will take place in the **Alumni Pavillon (MM C 78.1)** which is l
 
 ### Accommodations
 Here are three suggested hotels close to the venue:
-- [Hotel Limmathof - Hotel Limmathof](https://limmathof.com/en/) (10 minutes walk to the venue)
+- [Hotel Limmathof - Hotel Limmathof](https://limmathof.com/en/) (10 minutes walk to the venue, promo code: agrogeo24)
 - [Hotel Felix | Zurich – centrally located in the heart of Zurich’s old town](https://www.hotelfelix.ch/) (8 minutes walk to the venue)
 - [ibis Styles Zurich City Center | ALL - ALL (accor.com)](https://all.accor.com/hotel/B5J7/index.de.shtml) (12 minutes walk to the venue)
 
