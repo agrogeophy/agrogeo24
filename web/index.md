@@ -32,7 +32,7 @@ Agrogeophysics is an emerging research field. What are the current, potential an
 </div>
 
 
-## ETH Zürich, Switzerland*
+## ETH Zürich, Switzerland* 1st and 2nd February 2024
 *The event will also be streamed online (written questions only)
 
 Want to join? [Register now](https://www.eventbrite.com/e/3rd-agrogeophysics-seminar-illuminating-the-subsurface-tickets-719678225947?aff=oddtdtcreator) and [submit an abstract](abstracts.html)!
