@@ -84,7 +84,7 @@ _"Delineation of organic carbon pools in subsoils through electrical methods"_
 
 <img src="images/speakers/benjamin.png" style="width: 20%; border-radius: 50%">
 
-#### **Benjamin Mary** | UPM, Spain
+#### **Benjamin Mary** | ICA-CSIC, Spain
 _"Monitoring and modelling root-zone processes with geoelectrical methods"_
 
 <img src="images/speakers/myriam.jpg" style="width: 20%; border-radius: 50%">
