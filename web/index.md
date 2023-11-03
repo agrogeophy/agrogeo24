@@ -290,6 +290,9 @@ This event is supported by:
     <div class="column" >
         <a href="https://www.agroscope.admin.ch"><img style="width: 100%" src="images/sponsors/agroscope.jpg"/></a>
     </div>
+    <div class="column">
+        <a href="https://www.snf.ch"><img style="width: 100%" src="images/sponsors/snf.png"/></a>
+    </div>
 </div>
 
 
