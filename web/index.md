@@ -110,8 +110,8 @@ _"Overview of geoelectrical advances for vineyard study"_
 * **Arrival + conference dinner:** Wednesday January 31st, 2024 - Social dinner in the evening (18:00)
 
 * **Seminar days:**
-  - Thursday February 1st, 2024 - Main scientific program (8:30 - 18:00)
-  - Friday February 2nd, 2024 - Workshop (8:30 - 18:00)
+  - Thursday February 1st, 2024 (8:30 - 18:00) - oral presentations (morning) and workshop (afternoon)
+  - Friday February 2nd, 2024 - (8:30 - 18:00) - company fair, poster and end of workshop (morning) and oral presentations (afternoon)
 
 * **After conference:**
   - Saturday February 3rd, 2024 - Ski trip (for those who want, not included in the fee)
