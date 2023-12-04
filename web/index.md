@@ -158,6 +158,19 @@ Here are three suggested hotels close to the venue:
 <hr>
 
 
+## Workshops
+
+Three workshops will be proposed on the afternoon of the first day and morning of the second day:
+- **Exploiting clustering algorithms for spatial analysis of geophysical data**
+In this workshop, you will learn the tips and tricks on how to use centroid based clustering algorithms to analyse your spatial data. Using examples you will see how clustering can help to understand spatial patterns in several example datasets. The final example will show how clustering can combine data from different remotely sensed platforms. With the help of an online Jupyter notebook, you will also have the opportunity to try clustering on your data! Bring along some example dataset to try!
+
+- **Introduction to SimPEG and demonstration of a joint inversion**
+Come and discover the powerful SimPEG framework developed at UBC. You will learn about its structure, the different geophysical techniques it can be used for and do some hands-on exercise on some examples.
+
+- **OhmPi: an open-source resistivitymeter**
+This workshop is divided in three parts where participants will be able to place components on the measurements board, assemble a multiplexer and program a raspberry pi to operate the system.
+
+
 ## Contact
 
 <p class="lead">
