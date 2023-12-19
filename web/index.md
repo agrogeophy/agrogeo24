@@ -64,7 +64,7 @@ Agrogeophysics harnesses geophysical methods such as ground-penetrating radar, e
 <img src="images/speakers/anja.png" style="width: 20%; border-radius: 50%">
 
 #### **Anja Klotzsche** | FZ Jülich, Germany
-_"Potential of GPR in of Agro-Geophysics: Mapping and monitoring Soil variables in different settings"_
+_"Potential of GPR for Agrogeophysics: Mapping and monitoring soil variables in different settings"_
 
 <img src="images/speakers/kaijun.png" style="width: 20%; border-radius: 50%">
 
