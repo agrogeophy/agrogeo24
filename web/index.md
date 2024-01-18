@@ -99,7 +99,7 @@ _"Overview of geoelectrical advances for vineyard study"_
 
 ## Book of abstracts
 Prepare your seminar experience with the [Book of abstracts](https://ilvo_plant-agrogeo24.curve.space/agrogeo24-book-of-abstracts).
-Here you can also [download it as a PDF](/media/booklet-of-abstracts.pdf)
+Here you can also [download it as a PDF](media/booklet-of-abstracts.pdf)
 
 ## Practical information and registration
 
