@@ -309,6 +309,32 @@ This event is supported by:
         <a href="https://www.snf.ch"><img style="width: 100%" src="images/sponsors/snf.png"/></a>
     </div>
 </div>
+	
+<div class="row"> 
+	<a href="https://curvenote.com/oxa:Iv0z5HLWzgC0LDigFNc1/hYC59pUXsouqA6e2RiOI.1"><img style="width: 100%" src="images/sponsors/ssi-logo.png"/></a>
+</div>
+
+<div class="row"> 
+	<a href="https://www.iris-instruments.com/"><img style="width: 100%" src="images/sponsors/iris-logo.png"/></a>	
+	
+</div>
+<div class="row"> 
+	<a href="https://www.medusa-radiometrics.com/"><img style="width: 100%" src="images/sponsors/Medusa_WebLogo_rectangle-1.png"/></a>	
+	
+</div>
+<div class="row"> 
+	<a href="https://www.allied-germany.de/"><img style="width: 100%" src="images/sponsors/allied-associates.png"/></a>	
+	
+</div>
+<div class="row"> 
+	<a href="https://geoprospectors.com/en/"><img style="width: 100%" src="images/sponsors/Geoprospectors_Logo_4c_neu.png"/></a>	
+	
+</div>
+<div class="row"> 
+	<a href="https://curvenote.com/"><img style="width: 100%" src="images/sponsors/logo-text-blue.svg"/></a>	
+	
+</div>
+
 
 
 
