@@ -59,6 +59,11 @@
                 {{ make_nav_link(name, id, page, site) }}
               </li>
             {%- endfor %}
+            {%- for name, url in config.extra_navlinks %}
+              <li class="nav-item col-6 col-md-auto">
+                <a class="nav-link active" aria-current="page" href="{{ url }}">{{ name }}</a>
+              </li>
+            {%- endfor %}
           </ul>
           <ul class="navbar-nav ms-md-auto">
             <li class="nav-item">
