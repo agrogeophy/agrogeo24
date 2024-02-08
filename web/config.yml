@@ -12,7 +12,7 @@ menu:
 #  - [About, about]
 #  - [Agenda, program]
 #  - [<font color="blue">Workshop</font>, workshop ]
-  - [<font color="green">Submit an abstract</font>, abstracts]  
+#  - [<font color="green">Submit an abstract</font>, abstracts]  
 #  - [<font color="red">COVID-19 information</font>, COVID19]  
 #  - [Gallery, gallery]
 extra_navlinks:

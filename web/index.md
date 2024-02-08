@@ -23,8 +23,7 @@ template: base.html
 Agrogeophysics is an emerging research field. What are the current, potential and, future applications research needs? Come and discover with us!	
 </p>
 
-<!-- Book of abstracts: [download here](./media/AgroGeophysics_Seminar_Abstarct-Booklet.pdf) -->
-	
+
 </div>
 <div class="col-md-3 col-sm-4 col-4">
   <img alt="Seminar logo" src="{{ config.logo }}">
@@ -34,7 +33,11 @@ Agrogeophysics is an emerging research field. What are the current, potential an
 
 ## ETH Zürich, Switzerland 1st and 2nd February 2024
 
-Want to join? [Register now](https://www.eventbrite.com/e/3rd-agrogeophysics-seminar-illuminating-the-subsurface-tickets-719678225947?aff=oddtdtcreator) and [submit an abstract](abstracts.html)!
+<!-- Want to join? [Register now](https://www.eventbrite.com/e/3rd-agrogeophysics-seminar-illuminating-the-subsurface-tickets-719678225947?aff=oddtdtcreator) and [submit an abstract](abstracts.html)!
+-->
+
+Checkout the [Book of abstracts](https://agrogeo24.curve.space/) of the conference.
+Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 
 **Deadlines**:
 - 15th December 2023 (abstract submission)
@@ -97,9 +100,7 @@ _"Overview of geoelectrical advances for vineyard study"_
 
 <!-- <a class="btn btn-primary" href="program.html" role="button">See full program</a> -->
 
-## Book of abstracts
-Prepare your seminar experience with the [Book of abstracts](https://agrogeo24.curve.space/).
-Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
+
 
 ## Practical information and registration
 
