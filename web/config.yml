@@ -17,7 +17,6 @@ menu:
 #  - [Gallery, gallery]
 extra_navlinks:
   - [Program, https://agrogeo24.curve.space/]
-  - [=>Agrogeo26<=, https://agrogeophy.github.io/agrogeo26]
 ignore:
   - README.md
   - config-alternative.json
